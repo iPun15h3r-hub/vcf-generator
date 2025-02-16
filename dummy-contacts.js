@@ -3,7 +3,7 @@ const path = require(`path`)
 const faker = require(`faker`)
 const base64Img = require(`base64-img`)
 
-const numOfContactsToGenerate = 2
+const numOfContactsToGenerate = 500
 
 const contactsFile = path.resolve(`./dummy-contacts.vcf`)
 
